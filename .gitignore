@@ -36,4 +36,6 @@ dist/
 .env.*
 !.env.example
 
+chap04/output/
+
 *.pdf
